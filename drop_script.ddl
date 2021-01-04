@@ -16,6 +16,3 @@ drop table pract_schedule cascade constraints;
 drop table prescription cascade constraints;
 drop table rec_room cascade constraints;
 drop table relation_21 cascade constraints;
-
-
-
